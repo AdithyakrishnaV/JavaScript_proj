@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img{
+            padding: 20px 500px 2px;
+        }
+        button{
+            
+            font-size: large;
+        }
+        div{
+            padding-left:500px;
+        }
+    </style>
+</head>
+<body>
+    <img id="omg"  src="./bulboff.gif" width="100" height="180">
+    <div><button onclick="change()">light on/off</button></div>
+    <script>
+        function change(){
+            var image=document.getElementById("omg");
+         
+            if(image.src.match("bulboff")){
+                image.src="./bulbon.gif" ;
+            }else{
+                image.src="./bulboff.gif";
+            }
+        }
+    </script>
+</body>
+</html>
