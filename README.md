@@ -4,7 +4,7 @@ Just some fun things
 # Digital clock
 ![Logo](https://user-images.githubusercontent.com/84318379/216958780-61e6a162-4cd6-4f9b-8c60-584f693892db.png)
 
-#task management
+# task management
 ![Logo](https://user-images.githubusercontent.com/84318379/218293392-31e8a2c2-71d0-4eb1-8e62-263995d1e040.png)
 
 # bulb_on_off
