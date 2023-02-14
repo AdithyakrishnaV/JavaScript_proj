@@ -14,10 +14,10 @@ Just some fun things
 # counter with js
 ![Logo](https://user-images.githubusercontent.com/84318379/216959676-17e22a0b-855b-4f24-b79f-df49f729bc98.png)
 
+Task cards can be added or deleted
 
 ![tasky](https://user-images.githubusercontent.com/84318379/137151373-a80f0da1-3515-42c7-b6c7-4d550c025fbe.png)
 
-Task cards can be added or deleted
 
  add
 ----
